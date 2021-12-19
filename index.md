@@ -25,5 +25,4 @@
 
 
 ### I like this movie:
-!/images/High_resolution_wallpaper_background_ID_77701198778.jpg
-!High_resolution_wallpaper_background_ID_77701198778.jpg
+

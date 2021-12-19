@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Jagdishwar Mankala
+### This is an example Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/mjagdishwar/mjagdishwar-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
+- SSCET
+- IITB
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Project 1: [Housing Price Predidctor](https://duckduckgo.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Lorem Ipsum is simply dummy text of the printing and
+- typesetting industry. Lorem Ipsum has been the industry's 
+- standard dummy text ever since the 1500s, 
+- when an unknown printer took a galley of type and 
+- scrambled it to make a type specimen book. 
+- It has survived not only five centuries, 
+- but also the leap into electronic typesetting, 
+- remaining essentially unchanged. 
 
-```markdown
-Syntax highlighted code block
+### Project 2: [Something More](https://duckduckgo.com)
+- It was popularised in the 1960s with the release of 
+- Letraset sheets containing Lorem Ipsum passages, 
+- and more recently with desktop publishing software like Aldus 
+- PageMaker including versions of Lorem Ipsum.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjagdishwar/mjagdishwar-github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### I like this movie:

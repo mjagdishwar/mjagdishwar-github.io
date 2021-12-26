@@ -1,9 +1,18 @@
 # Jagdishwar Mankala
+### Introduction:
+I am Jagdish
 ### This is an example Data Science Portfolio
 
-### Education
-- SSCET
-- IITB
+### Education:
+- **Bachelor's of Engineering** from Shri Shankacharya College of Engineering & Technology [(SSCET)](https://www.sstc.ac.in/) in Mechanical Engineering Department 
+- **Master's of Technology** from Indian Institue of Technology Bombay, Mumbai [(IITB)](https://www.iitb.ac.in/) in Mechanical Engineering Department
+
+### Work Experience:
+- Worked at John Deere India (P) Limited as a Lead Structural Analyst for almost 9 years. My primary job responsibility was to do virtual design verification of John Deere Tractor implements mainly Tillage machine [Tillage](https://www.deere.com/en/tillage/)
+- Currently working as Analytics Developer at SAS R&D (P) Limited. My primary job responsibility here is to develop analytics software in Retail domain. 
+
+### My Interests:
+- 
 
 
 ### Project 1: [Housing Price Predidctor](https://duckduckgo.com)
